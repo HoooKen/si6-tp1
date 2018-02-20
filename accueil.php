@@ -10,7 +10,7 @@
 <body>
 
 <?php
-require_once('inc/header_connected.php');
+require_once('inc/header_connected.php');//Salut
 
 
 ?>
