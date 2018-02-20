@@ -9,7 +9,9 @@
             if(!$_SESSION['pseudo'] == NULL)
             {
                 ?>
-
+            <div class="panel">
+                
+            </div>
         <?php
             }
             require_once('../inc/footer.php');
