@@ -23,6 +23,8 @@ body,html
     left: 0;
     display:block;
     list-style:none;
+    height:440px;
+    background-color:grey;
 }
 .link li
 {
