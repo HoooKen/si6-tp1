@@ -21,15 +21,26 @@ body,html
 {
     position: fixed;
     left: 0;
+    display:block;
+    list-style:none;
+}
+.link li
+{
+    list-style:none;
+}
+.link ul
+{
+    width:860px;
 }
 .link a
 {
     text-decoration:none;
     color:black;
     padding-right:270px;
-    padding-bottom:30px;
-
+    padding-bottom:20px;
     margin-left:400px;
+    margin-bottom:20px;
+    height:50px;
 
 }
 
@@ -40,7 +51,6 @@ body,html
     border-right-color:blue;
     border-right-style:solid;
     border-right-width:5px;
-    bakcground-size:600px;
 }
 
 header
